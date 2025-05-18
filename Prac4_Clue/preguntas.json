@@ -1,0 +1,52 @@
+[
+    {
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": ["Marte", "Júpiter", "Venus"],
+        "correcta": "Júpiter"
+    },
+    {
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Mario Vargas Llosa", "Pablo Neruda", "Gabriel García Márquez"],
+        "correcta": "Gabriel García Márquez"
+    },
+    {
+        "pregunta": "¿Qué gas es esencial para que podamos respirar?",
+        "opciones": ["Oxígeno", "Hidrógeno", "Nitrógeno"],
+        "correcta": "Oxígeno"
+    },
+    {
+        "pregunta": "¿Cuántos continentes hay en el mundo?",
+        "opciones": ["5", "6", "7"],
+        "correcta": "7"
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del planeta?",
+        "opciones": ["Atlántico", "Índico", "Pacífico"],
+        "correcta": "Pacífico"
+    },
+    {
+        "pregunta": "¿Qué país tiene forma de bota?",
+        "opciones": ["Chile", "Italia", "India"],
+        "correcta": "Italia"
+    },
+    {
+        "pregunta": "¿En qué continente está Egipto?",
+        "opciones": ["Asia", "África", "Europa"],
+        "correcta": "África"
+    },
+    {
+        "pregunta": "¿Cuál es el metal más ligero?",
+        "opciones": ["Aluminio", "Litio", "Mercurio"],
+        "correcta": "Litio"
+    },
+    {
+        "pregunta": "¿Qué instrumento tiene teclas, cuerdas y martillos?",
+        "opciones": ["Violín", "Piano", "Guitarra"],
+        "correcta": "Piano"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Yangtsé"],
+        "correcta": "Amazonas"
+    }
+]
